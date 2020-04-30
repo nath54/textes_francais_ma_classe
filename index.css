@@ -1,0 +1,91 @@
+.divtext{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+    margin-right:20px;
+
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+#ensemble,#divsearch,#divfiltresgenres,#divfiltresetats,#divfiltres,#divtrier{
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:auto;
+    padding-bottom:auto;
+    padding-left:auto;
+    padding-right:auto;
+}
+
+
+
+#ensemble{
+    background-color: aliceblue;
+    border-radius: 10px;
+    border:2px solid black;
+}
+
+.divtext{
+    background-color: rgb(100,100,100);
+    color:azure;
+    border-radius: 20px;
+    max-width:400px;
+    max-height:700px;
+    overflow: hidden;
+
+    
+
+    display:inline-block;
+    overflow-wrap: normal;
+}
+
+#recherche{
+    border-radius: 20px;
+}
+
+#btsearch{
+    border-radius: 20px;
+}
+
+#divsearch,#divfiltresgenres,#divfiltresetats,#divfiltres,#divtrier{
+    border:1px solid black;
+    border-radius:5px;
+}
+
+#divfiltresgenres,#divfiltresetats,#divtrier{
+    display: inline-block;
+}
+
+.fltrs{
+    display: inline-block;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+.checks{
+    border-radius: 50px;
+}
+
+#divsearch{
+    text-align:center;
+}
+
+#recherche{
+    width:80%;
+    margin:5px;
+    background-color: azure;
+    color: rgb(10,10,10);
+    text-align:center;
+    font-size: large;
+    font-weight: 1000;
+}
+
+#tittre{
+    background-color: beige;
+    border-radius: 20px;
+    text-align: center;
+}

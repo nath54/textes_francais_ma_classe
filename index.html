@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Textes de français</title>
+        <link href="index.css" rel="stylesheet" />
+    </head>
+
+    <body onload="research();">
+        <div>
+            <h1 id="tittre">Textes de Français de premiere de la classe de 1°C du lycée Henri-Poincaré : </h1>
+            <div id="divsearch">
+                <input id="recherche" />
+                <button id="btsearch" onclick="research();">Chercher</button>
+            </div>
+            <div id="divfiltres">
+                <h2>Filtres : </h2>
+                <div id="divfiltresgenres">
+                    <h3>Genre : </h3>
+                    <p class="fltrs">Pièce de théatre : <input class="checks" id="filtre_theatre" checked=true type="checkbox" /> </p>
+                    <p class="fltrs">Roman : <input class="checks" id="filtre_roman" checked=true type="checkbox" /> </p>
+                    <p class="fltrs">Poème : <input class="checks" id="filtre_poeme" checked=true type="checkbox" /> </p>
+                    <p class="fltrs">Texte argumentatif : <input class="checks" id="filtre_argu" checked=true type="checkbox" /> </p>
+                    <!--
+                    <p class="fltrs">Pièce de théatre : <input class="checks" id="filtre_piece" checked=true type="checkbox" /> </p>
+                    <p class="fltrs">Pièce de théatre : <input class="checks" id="filtre_piece" checked=true type="checkbox" /> </p>
+                    -->
+                </div>
+                <div id="divfiltresetats">
+                    <h3>Etat : </h3>
+                    <p class="fltrs">Texte Entier : <input class="checks" id="filtre_entier" checked=true type="checkbox" /> </p>
+                    <p class="fltrs">Extrait : <input class="checks" id="filtre_extrait" checked=true type="checkbox" /> </p>
+                </div>
+                <div id="divtrier">
+                    <h3>Trier par :</h3>
+                    <select name="trierpar" id="trierpar">
+                        <option>Laisser tel quel</option>
+                        <option>Titres par ordre alphabétique - croissant</option>
+                        <option>Titres par ordre alphabétique - décroissant</option>
+                        <option>Auteurs par ordre alphabétique - croissant</option>
+                        <option>Auteurs par ordre alphabétique - décroissant</option>
+                        <option>Dates - croissantes</option>
+                        <option>Dates - décroissantes</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div id="ensemble">
+
+        </div>
+    </body>
+    
+    <style>
+
+
+    </style>
+    
+    <script src="index.js" type="text/javascript"></script>
+
+</html>
