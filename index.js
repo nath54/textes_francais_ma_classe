@@ -1,5 +1,5 @@
 const liste_textes=[
-    {titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:"pièce de théatre"},
+    {titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[["texte","ALAINRENELESAGE_extraitde_turcaret/texte.html"]],etat:"extrait",genre:"pièce de théatre"},
     {titre:"Vénus Anadyomède",auteur:"Arthur Rimbaud",date:"1870",liens:[["texte","ARTHURRIMBAUD_venusanadyomene/texte.html"]],etat:"entier",genre:"poème"},
     {titre:"Chronique de Guinée",auteur:"Gomes Eanes de Zurara",date:"1468",liens:[["texte","HENRILENAVIGATEURETLEXPLORATIONDESCOTESAFRICAINES/texte.html"]],etat:"extrait",genre:"texte argumentatif"},
     {titre:"Odelette",auteur:"Théodore de Banville",date:"1856",liens:[["texte","THEODOREDEBANVILLE_ODELETTE/texte.html"]],etat:"entier",genre:"poème"},
