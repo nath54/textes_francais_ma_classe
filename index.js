@@ -162,6 +162,22 @@ function research(){
                 }
                 divtext.appendChild(ul);
             }        
+
+            if(t.genre!=null){
+                var gg=document.createElement("p")
+                gg.innerHTML="genre : "+t.genre;
+                divtext.appendChild(gg);
+            }
+
+            if(t.etat!=null){
+                var ee=document.createElement("p")
+                var tetat="etat : "+t.etat;
+                if(t.etat=="entier"){ tetat="texte entier"; }
+                else if(t.etat=="extrait"){ tetat="extrait du texte"; }
+                ee.innerHTML=tetat;
+                divtext.appendChild(ee);
+            }
+
             document.getElementById("ensemble").appendChild(divtext);
         }
     }
