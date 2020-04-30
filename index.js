@@ -5,7 +5,7 @@ const liste_textes=[
     {titre:"Odelette",auteur:"Théodore de Banville",date:"1856",liens:[["texte","THEODOREDEBANVILLE_ODELETTE/texte.html"]],etat:"entier",genre:"poème"},
     {titre:"Fonction du Poète",auteur:"Victor Hugo",date:null,liens:[["texte","VICTORHUGO_fonctiondupoete/texte.html"]],etat:"entier",genre:"poème"},
     {titre:"Le Crapaud",auteur:"Tristan Corbière",date:"1873",liens:[["texte","TRISTANDECORBIERE_lecrapaud/texte.html"]],etat:"entier",genre:"poème"},
-    //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null},
+    {titre:"L'albatros",auteur:"Charles Baudelaire",date:null,liens:[["texte","BAUDELAIRE_lalbatros/texte.html"]],etat:"entier",genre:"poème"},
     //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null},
     //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null},
     //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null},
@@ -13,9 +13,14 @@ const liste_textes=[
 
 const lettres=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
 
+function shuffle(array) {
+    array.sort(() => Math.random() - 0.5);
+  }
+
 function research(){
 
     var textes=Array.from(liste_textes);
+    shuffle(textes);
 
     var trier_par=document.getElementById("trierpar").value;
     //alert(trier_par)
