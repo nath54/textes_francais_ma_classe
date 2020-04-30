@@ -6,7 +6,7 @@ const liste_textes=[
     {titre:"Fonction du Poète",auteur:"Victor Hugo",date:null,liens:[["texte","VICTORHUGO_fonctiondupoete/texte.html"]],etat:"entier",genre:"poème"},
     {titre:"Le Crapaud",auteur:"Tristan Corbière",date:"1873",liens:[["texte","TRISTANDECORBIERE_lecrapaud/texte.html"]],etat:"entier",genre:"poème"},
     {titre:"L'albatros",auteur:"Charles Baudelaire",date:null,liens:[["texte","BAUDELAIRE_lalbatros/texte.html"]],etat:"entier",genre:"poème"},
-    //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null},
+    {titre:"Utopia",auteur:"Thomas More",date:"1987",liens:[["texte","THOMASMORE_extrait_dutopia/texte.html"]],etat:"extrait",genre:"roman"},
     //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null},
     //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null},
 ];
