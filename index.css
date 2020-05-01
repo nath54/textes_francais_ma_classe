@@ -156,13 +156,6 @@ body{
     display:inline-block;
     overflow-wrap: normal;
 }
-.divtext:hover{
-    text-align: center;
-    min-width:300px;
-    min-height:500px;
-    max-width: 600px;
-    max-height: 900px;
-}
 
 .divtextoral{
     background-color: rgba(200,100,100,1);

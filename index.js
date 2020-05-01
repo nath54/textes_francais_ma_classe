@@ -1,15 +1,4 @@
-const liste_textes=[
-    {titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[["texte","ALAINRENELESAGE_extraitde_turcaret/texte.html"]],etat:"extrait",genre:"pièce de théatre",tpfich:"textevu"},
-    {titre:"Vénus Anadyomède",auteur:"Arthur Rimbaud",date:"1870",liens:[["texte","ARTHURRIMBAUD_venusanadyomene/texte.html"]],etat:"entier",genre:"poème",tpfich:"textevu"},
-    {titre:"Chronique de Guinée",auteur:"Gomes Eanes de Zurara",date:"1468",liens:[["texte","HENRILENAVIGATEURETLEXPLORATIONDESCOTESAFRICAINES/texte.html"]],etat:"extrait",genre:"texte argumentatif",tpfich:"textevu"},
-    {titre:"Odelette",auteur:"Théodore de Banville",date:"1856",liens:[["texte","THEODOREDEBANVILLE_ODELETTE/texte.html"]],etat:"entier",genre:"poème",tpfich:"textevu"},
-    {titre:"Fonction du Poète",auteur:"Victor Hugo",date:null,liens:[["texte","VICTORHUGO_fonctiondupoete/texte.html"]],etat:"entier",genre:"poème",tpfich:"textevu"},
-    {titre:"Le Crapaud",auteur:"Tristan Corbière",date:"1873",liens:[["texte","TRISTANDECORBIERE_lecrapaud/texte.html"]],etat:"entier",genre:"poème",tpfich:"textevu"},
-    {titre:"L'albatros",auteur:"Charles Baudelaire",date:null,liens:[["texte","BAUDELAIRE_lalbatros/texte.html"]],etat:"entier",genre:"poème",tpfich:"textevu"},
-    {titre:"Utopia",auteur:"Thomas More",date:"1987",liens:[["texte","THOMASMORE_extrait_dutopia/texte.html"]],etat:"extrait",genre:"roman",tpfich:"textevu"},
-    //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null,tpfich:"textevu"},
-    //{titre:"Turcaret",auteur:"Alain-René Lesage",date:null,liens:[],etat:"extrait",genre:null,tpfich:"textevu"},
-];
+
 
 const lettres=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
 
