@@ -148,8 +148,6 @@ body{
     background-color: rgb(100,100,100);
     color:azure;
     border-radius: 20px;
-    min-width:200px;
-    min-height:400px;
     max-width:400px;
     max-height:700px;
     overflow: hidden;
