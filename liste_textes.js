@@ -14,6 +14,7 @@ const liste_textes=[
     {titre:"Les fleurs du mal",auteur:"Charles Baudelaire",date:null,etat:"entier",genre:"poème",tpfich:"textevu",liens:
         [["l'albatros","TEXTES/BAUDELAIRE_fleursdumal/albatros.html"],
         ["l'ennemi","TEXTES/BAUDELAIRE_fleursdumal/lennemi.html"],
+        ["le spleen","TEXTES/BAUDELAIRE_fleursdumal/spleen.html"],
         ["la beauté","TEXTES/BAUDELAIRE_fleursdumal/labeaute.html"]]},
     {titre:"Utopia",auteur:"Thomas More",date:"1987",etat:"extrait",genre:"roman",tpfich:"textevu",liens:
         [["texte","TEXTES/THOMASMORE_extrait_dutopia/texte.html"]]},
