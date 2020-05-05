@@ -13,7 +13,8 @@ const liste_textes=[
         [["texte","TEXTES/TRISTANDECORBIERE_lecrapaud/texte.html"]]},
     {titre:"Les fleurs du mal",auteur:"Charles Baudelaire",date:null,etat:"entier",genre:"poème",tpfich:"textevu",liens:
         [["l'albatros","TEXTES/BAUDELAIRE_fleursdumal/albatros.html"],
-        ["l'ennemi","TEXTES/BAUDELAIRE_fleursdumal/lennemi.html"]]},
+        ["l'ennemi","TEXTES/BAUDELAIRE_fleursdumal/lennemi.html"],
+        ["la beauté","TEXTES/BAUDELAIRE_fleursdumal/labeaute.html"]]},
     {titre:"Utopia",auteur:"Thomas More",date:"1987",etat:"extrait",genre:"roman",tpfich:"textevu",liens:
         [["texte","TEXTES/THOMASMORE_extrait_dutopia/texte.html"]]},
     {titre:"Essais",auteur:"Montaigne",date:"1580-1588",etat:"extrait",genre:"texte argumentatif",tpfich:"textevu",liens:
