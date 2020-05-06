@@ -2,7 +2,9 @@ const liste_textes=[
     {titre:"Turcaret",auteur:"Alain-René Lesage",date:null,etat:"extrait",genre:"pièce de théatre",tpfich:"textevu",liens:
         [["texte","TEXTES/ALAINRENELESAGE_extraitde_turcaret/texte.html"]]},
     {titre:"Vénus Anadyomède",auteur:"Arthur Rimbaud",date:"1870",etat:"entier",genre:"poème",tpfich:"textevu",liens:
-        [["texte","TEXTES/ARTHURRIMBAUD_venusanadyomene/texte.html"]]},
+        [["texte","TEXTES/ARTHURRIMBAUD/venus.html"]]},
+    {titre:"L'aube",auteur:"Arthur Rimbaud",date:"1873",etat:"entier",genre:"poème",tpfich:"textevu",liens:
+        [["texte","TEXTES/ARTHURRIMBAUD/aube.html"]]},
     {titre:"Chronique de Guinée",auteur:"Gomes Eanes de Zurara",date:"1468",etat:"extrait",genre:"texte argumentatif",tpfich:"textevu",liens:
         [["texte","TEXTES/HENRILENAVIGATEURETLEXPLORATIONDESCOTESAFRICAINES/texte.html"]]},
     {titre:"Odelette",auteur:"Théodore de Banville",date:"1856",etat:"entier",genre:"poème",tpfich:"textevu",liens:
@@ -29,7 +31,8 @@ const liste_textes=[
         [["texte d'etude linéaire","TEXTES/DEDENISDIDEROT_supplementauvoyagedebougainville/et_lin.html"]]},
     {titre:"Histoire d'un voyage fait en terre de Brésil",auteur:"Jean de Lery",date:"1578",etat:"extrait",genre:"récit de voyage",tpfich:"textevu",liens:
         [["texte d'étude linéaire","TEXTES/JEAN_DE_LERY_histoiredunvoiyagefaiteenterredebresil/et_lin.html"]]},
-    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    {titre:"L'art",auteur:"Théophile Gautier",date:"1858",etat:"entier",genre:"poème",tpfich:"textevu",liens:
+        [["texte","TEXTES/THEOPHILE_GAUTIER/lart.html"]]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
