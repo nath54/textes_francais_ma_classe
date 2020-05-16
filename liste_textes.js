@@ -60,7 +60,7 @@ const liste_textes=[
     {titre:"fiche cour : les procédés de substitution",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
         ["fiche","FICHES_COURS/fsubstitution.html"]
     ]},
-    {titre:"fiche cour : l'utilisation particulière de la syntaxe",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+    {titre:"fiche cour : les procédés d'opposition",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
         ["fiche","FICHES_COURS/fopposition.html"]
     ]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
