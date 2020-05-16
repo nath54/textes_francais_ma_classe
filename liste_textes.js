@@ -72,6 +72,9 @@ const liste_textes=[
     {titre:"fiche cour : les sonorités ",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
         ["fiche","FICHES_COURS/fsonorites.html"]
     ]},
+    {titre:"fiches cour",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/rfiche.html"]
+    ]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
