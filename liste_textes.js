@@ -63,6 +63,9 @@ const liste_textes=[
     {titre:"fiche cour : les procédés d'opposition",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
         ["fiche","FICHES_COURS/fopposition.html"]
     ]},
+    {titre:"fiche cour : les procédés d'insistance ",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/finsist.html"]
+    ]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
