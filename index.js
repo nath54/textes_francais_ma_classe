@@ -91,6 +91,7 @@ function research(){
     "texte argumentatif":document.getElementById("filtre_argu").checked,
     "entier":document.getElementById("filtre_entier").checked,
     "extrait":document.getElementById("filtre_extrait").checked,
+    "cours":document.getElementById("filtre_cour").checked,
     null:true
     };
     var recherche=document.getElementById("recherche").value;
@@ -127,8 +128,8 @@ function research(){
             if(t.tpfich=="ficheauteur"){
                 divtext.setAttribute("class","divtext divtextvu");
             }
-            if(t.tpfich=="ficheparcours"){
-                divtext.setAttribute("class","divtext divtextvu");
+            if(t.tpfich=="fichecours"){
+                divtext.setAttribute("class","divtext divfichecours");
             }
             if(t.tpfich=="ficheoeuvre"){
                 divtext.setAttribute("class","divtext divficheoeuvre");

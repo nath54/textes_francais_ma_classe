@@ -33,18 +33,51 @@ const liste_textes=[
         [["texte d'étude linéaire","TEXTES/JEAN_DE_LERY_histoiredunvoiyagefaiteenterredebresil/et_lin.html"]]},
     {titre:"L'art",auteur:"Théophile Gautier",date:"1858",etat:"entier",genre:"poème",tpfich:"textevu",liens:
         [["texte","TEXTES/THEOPHILE_GAUTIER/lart.html"]]},
-    {titre:"Fiche d'Oeuvre : Le mariage de Figaro",auteur:"Beaumarchais",date:"1784",etat:null,genre:"pièce de théatre",tpfich:"ficheoeuvre",liens:[
+    {titre:"Fiche d'Oeuvre : Le mariage de Figaro",auteur:"Beaumarchais",date:"1784",etat:"cours",genre:"pièce de théatre",tpfich:"ficheoeuvre",liens:[
         ["fiche","FICHE_OEUVRE/bea_lmdf.html"]
     ]},
-    {titre:"Fiche d'Oeuvre : Les Fleurs du Mal",auteur:"Baudelaire",date:"1857",etat:null,genre:"poème",tpfich:"ficheoeuvre",liens:[
+    {titre:"Fiche d'Oeuvre : Les Fleurs du Mal",auteur:"Baudelaire",date:"1857",etat:"cours",genre:"poème",tpfich:"ficheoeuvre",liens:[
         ["fiche","FICHE_OEUVRE/bau_fdm.html"]
     ]},
-    {titre:"Fiche d'Oeuvre : Les Essais",auteur:"Montaigne",date:"1580-1588",etat:null,genre:"texte argumentatif",tpfich:"ficheoeuvre",liens:[
+    {titre:"Fiche d'Oeuvre : Les Essais",auteur:"Montaigne",date:"1580-1588",etat:"cours",genre:"texte argumentatif",tpfich:"ficheoeuvre",liens:[
         ["fiche","FICHE_OEUVRE/mon_essais.html"]
     ]},
-    {titre:"Fiche d'Oeuvre : Le Rouge et le Noir",auteur:"Stendhal",date:"1830",etat:null,genre:"roman",tpfich:"ficheoeuvre",liens:[
+    {titre:"Fiche d'Oeuvre : Le Rouge et le Noir",auteur:"Stendhal",date:"1830",etat:"cours",genre:"roman",tpfich:"ficheoeuvre",liens:[
         ["fiche","FICHE_OEUVRE/ste_reln.html"]
     ]},
+    {titre:"fiche cour : le comique",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/fiche_comique.html"]
+    ]},
+    {titre:"fiche cour : l'utilisation particulière de la syntaxe",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/fiche_syntaxe.html"]
+    ]},
+    {titre:"fiche cour : les procédés de comparaison",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/fcomparaison.html"]
+    ]},
+    {titre:"fiche cour : les procédés d'animation",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/fanim.html"]
+    ]},
+    {titre:"fiche cour : les procédés de substitution",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/fsubstitution.html"]
+    ]},
+    {titre:"fiche cour : l'utilisation particulière de la syntaxe",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/fopposition.html"]
+    ]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
+    //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
