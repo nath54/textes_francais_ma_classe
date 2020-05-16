@@ -69,6 +69,9 @@ const liste_textes=[
     {titre:"fiche cour : les procédés d'atténuation ",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
         ["fiche","FICHES_COURS/fatténuation.html"]
     ]},
+    {titre:"fiche cour : les sonorités ",auteur:"",date:null,etat:"cours",genre:null,tpfich:"fichecours",liens:[
+        ["fiche","FICHES_COURS/fsonorites.html"]
+    ]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
     //{titre:"",auteur:"",date:null,etat:"extrait",genre:null,tpfich:"textevu",liens:[]},
