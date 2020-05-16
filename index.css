@@ -187,3 +187,11 @@ body{
 .divficheparcour:hover{
     background-color: rgba(180,180,80,1);
 }
+
+.divficheoeuvre{
+    background-color: rgba(100,200,100,1);
+    color:black;
+}
+.divficheoeuvre:hover{
+    background-color: rgba(80,180,80,1);
+}

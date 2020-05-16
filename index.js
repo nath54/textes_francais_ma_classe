@@ -130,6 +130,9 @@ function research(){
             if(t.tpfich=="ficheparcours"){
                 divtext.setAttribute("class","divtext divtextvu");
             }
+            if(t.tpfich=="ficheoeuvre"){
+                divtext.setAttribute("class","divtext divficheoeuvre");
+            }
 
             //t est le titre du texte
             if(t.titre!=null){
